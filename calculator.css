@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     line-height: 0.5;
-    background: linear-gradient(to left,#7808f0,#06bd);
+    background: linear-gradient(to left,#f30202,rgba(77, 228, 233, 0.867));
 
 }
 
@@ -111,4 +111,3 @@ h2{
     font-size: 40;
    
 }
-
